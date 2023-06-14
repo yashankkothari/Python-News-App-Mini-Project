@@ -1,7 +1,7 @@
 # Python-News-App-Mini-Project
 News App i created using python for my college mini project
 
-#How it works
+# How it works
 
 1. The code uses the News API to fetch news articles based on user input.
 2. It creates a GUI using the Tkinter library to provide a user interface for searching and displaying news.
